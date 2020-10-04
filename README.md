@@ -1,5 +1,5 @@
 <div align='center'>
-<img src="./.github/proffy.png" width='250'>
+<img src="https://raw.githubusercontent.com/junior3874/next-level-week-3/master/.github/logo.svg" width='250'>
 
 ---
 
