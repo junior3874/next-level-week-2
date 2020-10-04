@@ -10,7 +10,7 @@ const styles = StyleSheet.create({
 
   content: {
     flex: 1,
-    justifyContent: 'center',
+    justifyContent: 'center'
   },
 
   title: {
@@ -34,7 +34,7 @@ const styles = StyleSheet.create({
     marginVertical: 40,
     backgroundColor: '#04d361',
     height: 58,
-    alignItems: "center",
+    alignItems: 'center',
     justifyContent: 'center',
     borderRadius: 8
   },
@@ -43,7 +43,7 @@ const styles = StyleSheet.create({
     color: '#FFF',
     fontSize: 16,
     fontFamily: 'Archivo_700Bold'
-  }
+  },
 });
 
 export default styles;
